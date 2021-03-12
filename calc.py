@@ -28,7 +28,7 @@ class Income:
     ):
         """
 
-        :param date: Дата фиксации дохода на счету
+        :param date: Дата фиксации дохода на счёте
 
         :param amount: Сумма дохода
 
